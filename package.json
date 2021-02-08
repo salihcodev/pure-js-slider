@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "uuid": "^8.3.2"
+  },
+  "name": "pure-js-slider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/uuid": "^8.3.0",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.6",
+    "typescript": "^4.1.3"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salihcodev/pure-js-slider.git"
+  },
+  "author": "@salihcodev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salihcodev/pure-js-slider/issues"
+  },
+  "homepage": "https://github.com/salihcodev/pure-js-slider#readme",
+  "description": ""
+}
